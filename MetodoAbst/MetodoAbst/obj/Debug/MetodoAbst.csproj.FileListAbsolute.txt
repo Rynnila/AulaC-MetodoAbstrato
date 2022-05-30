@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\MetodoAbst\MetodoAbst\bin\Debug\MetodoAbst.exe.config
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\MetodoAbst\MetodoAbst\bin\Debug\MetodoAbst.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\MetodoAbst\MetodoAbst\bin\Debug\MetodoAbst.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\MetodoAbst\MetodoAbst\obj\Debug\MetodoAbst.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\MetodoAbst\MetodoAbst\obj\Debug\MetodoAbst.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\MetodoAbst\MetodoAbst\obj\Debug\MetodoAbst.pdb
